@@ -3,7 +3,7 @@ function getComputerChoice() {
 }
 
 function playRound(playerSelection, computerSelection) {
-
+    return "You Lose! Paper beats Rock"
 }
 
 const playerSelection = "rock";
